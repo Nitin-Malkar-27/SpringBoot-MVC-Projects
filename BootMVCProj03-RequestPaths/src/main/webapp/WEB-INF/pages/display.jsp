@@ -1,0 +1,1 @@
+ This is GET type method
